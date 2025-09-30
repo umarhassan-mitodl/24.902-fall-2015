@@ -1,0 +1,51 @@
+{
+  "term": "Fall",
+  "year": "2015",
+  "level": [
+    "Undergraduate",
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "Linguistics"
+    ],
+    [
+      "Humanities",
+      "Linguistics",
+      "Syntax"
+    ]
+  ],
+  "legacy_uid": "12ed654e-36e0-cb61-fe6f-19e71b6969d9",
+  "instructors": {
+    "content": [
+      "6b543890-e9d5-f857-709d-dc5b20d0fd0c"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "2da8eb40-3252-8eb0-e958-de6c32951331",
+    "website": "24-902-language-and-its-structure-ii-syntax-fall-2015"
+  },
+  "course_title": "Language and its Structure II: Syntax",
+  "hide_download": true,
+  "course_description": "This course covers some of the basic ideas in the subfield syntax, within the framework often referred to as \"Generative Grammar\".\n",
+  "department_numbers": [
+    "24"
+  ],
+  "extra_course_numbers": "24.932",
+  "primary_course_number": "24.902",
+  "course_image_thumbnail": {
+    "content": "6f1acd16-5771-5298-36bf-92426ada19b1",
+    "website": "24-902-language-and-its-structure-ii-syntax-fall-2015"
+  },
+  "hide_download_original": null,
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Written Assignments"
+  ],
+  "site_uid": "903ba7e5-7940-439e-8750-3b949008110d",
+  "site_short_id": "24.902-fall-2015",
+  "site_url_path": "courses/24-902-language-and-its-structure-ii-syntax-fall-2015",
+  "title": "Course Metadata"
+}
