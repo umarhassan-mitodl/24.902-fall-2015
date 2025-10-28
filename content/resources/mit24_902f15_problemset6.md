@@ -5,8 +5,6 @@ description: 'This resource contains information regarding language and its stru
 file: /courses/24-902-language-and-its-structure-ii-syntax-fall-2015/fd11abca3da8accd7675a925e85e5e53_MIT24_902F15_ProblemSet6.pdf
 file_size: 115300
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
